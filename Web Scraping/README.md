@@ -1,0 +1,1 @@
+My class took time around our machine learning topics to discuss web scraping. I kept things simple for this assignment and used the practice url that my professor supplied, but took my own personal time to look into web scraping of other wikipedia pages and various websites available to practice scraping on.
