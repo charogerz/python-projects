@@ -1,0 +1,1 @@
+This is from the week we were tasked with getting to know Matplotlib and how to use it. I used data from a list of restaurants I had been to in New York City since moving and played with the various ways to display that data.
