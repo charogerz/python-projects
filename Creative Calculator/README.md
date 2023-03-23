@@ -1,0 +1,1 @@
+We were each tasked with using computing components in Python to calculate something creatively. I chose to challenge myself and work with strings instead of numbers and chose to create a calculator that assisted people with the mixing and unmixing of primary colors.
